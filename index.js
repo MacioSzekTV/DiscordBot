@@ -5,7 +5,7 @@ client.on('message', msg => {
     if(msg.author == client.user) return;
 
     const prefix = "+"
-    if(msg.content=prefix+"ping"){
+    if(msg.content==prefix+"ping"){
         msg.channel.send("Pong!")
     }
 })
