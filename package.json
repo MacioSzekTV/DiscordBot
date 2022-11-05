@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  },
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "macioch DEV",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "npm index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/MacioSzekTV/DiscordBot"
+  },
+  "author": "macioch DEV / MacioSzekTV",
+  "license": "ISC"
+}
