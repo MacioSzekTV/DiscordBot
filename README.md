@@ -9,5 +9,5 @@
 ## Instrukcja:
 1. Zainstaluj wszystkie potrzebne biblioteki przy pomocy `npm i`
 2. Podmień w pliku index.js token bota na swój
-2. Uruchom bota komendą `node index.js` lub `npm start`
+3. Uruchom bota komendą `node index.js` lub `npm start`
 
